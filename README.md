@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dlukee from Argentina
 - 👀 I’m interested in Voley and Calisthenics
-- 🌱 I’m currently learning programming C# / POO 
+- 🌱 I’m currently learning programming C# / POO / SQL
 - 📫 How to reach me Lukeprograma@gmail.com / @imlucasaquino_
 
 <!---
